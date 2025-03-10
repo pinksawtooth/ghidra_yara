@@ -1,1 +1,1 @@
-yara-python==4.2.3
+yara-python==4.5.0
